@@ -10,3 +10,4 @@ Lorem ipsum dolor sit amet,
  cia deserunt mollit anim id est laborum.
 
 Я изменил файл1.тхт
+ЕЩЁ РАЗ ИЗМЕНИЛ ФАЙЛ, УЖЕ НА НОВОЙ ВЕТКЕ
